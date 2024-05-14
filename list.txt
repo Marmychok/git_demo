@@ -1,0 +1,5 @@
+start the Java practice gits
+//..
+
+git status
+commit - u  "and so on"
